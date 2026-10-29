@@ -71,3 +71,4 @@ if __name__ == "__main__":
     # download_device_types(conn=conn, )
     # print(search_device_types("iv pump"))
     # # print(download_device_types(conn, ["Infusion Pump", "Defibrillator"]))
+    # conn.close()

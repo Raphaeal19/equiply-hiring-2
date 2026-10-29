@@ -37,3 +37,4 @@ def build_payload(conn) -> dict:
 conn = data.connect()
 payload = build_payload(conn)
 print(client.post("q1/solution", payload))
+conn.close()

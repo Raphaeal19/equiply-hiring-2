@@ -2,4 +2,4 @@
 profile.json
 __pycache__/
 .venv/
-cache/*
+cache/*.db

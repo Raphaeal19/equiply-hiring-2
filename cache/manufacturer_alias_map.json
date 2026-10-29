@@ -1,0 +1,1977 @@
+{
+  "aliases": {
+    "TSI": [
+      "TSI"
+    ],
+    "SMITHS MEDICAL": [
+      "SMITH MEDICAL",
+      "SMITHS MEDICAL",
+      "SMITHS MEDICAL ASD"
+    ],
+    "HUDSON RESPIRATORY CARE": [
+      "HUDSON RESPIRATORY CARE"
+    ],
+    "TELEFLEX MEDICAL": [
+      "TELEFLEX MEDICAL"
+    ],
+    "PHILIPS MEDICAL SYSTEMS": [
+      "KONINKLIJKE PHILIPS",
+      "PHILIPS BURTON",
+      "PHILIPS HEALTHCARE",
+      "PHILIPS MEDICAL SYSTEMS",
+      "PHILLIPS MEDICAL"
+    ],
+    "RESPIRONICS": [
+      "RESPIRONICS"
+    ],
+    "IRIS DIAGNOSTICS": [
+      "IRIS DIAGNOSTICS",
+      "IRIS SAMPLE PROCESSING"
+    ],
+    "BECKMAN COULTER": [
+      "BECKMAN COULTER"
+    ],
+    "MEDTRONIC": [
+      "MEDTRONIC",
+      "MEDTRONIC HEMOTEC",
+      "MEDTRONIC INC",
+      "MEDTRONIC SURGICAL NAVIGATION TECHNOLOGIES",
+      "MEDTRONIC USA",
+      "MEDTRONIC XOMED",
+      "PHYSIO CONTROL"
+    ],
+    "MIDMARK": [
+      "MID MARK",
+      "MIDMARK",
+      "MIDMARK CORP"
+    ],
+    "RITTER": [
+      "RITTER"
+    ],
+    "UNDERWRITERS LABORATORIES": [
+      "UNDERWRITERS LABORATORIES"
+    ],
+    "ATLAS SPECIALTY LIGHTING": [
+      "ATLAS SPECIALTY LIGHTING"
+    ],
+    "OHMEDA": [
+      "DATEX OHMEDA",
+      "DATEX-OHMEDA INC",
+      "GE DATEX OHMEDA",
+      "OHMEDA",
+      "OHMEDA MEDICAL"
+    ],
+    "NELLCOR PURITAN": [
+      "NELLCOR PURITAN",
+      "NELLCOR PURITAN BENNETT",
+      "PURITAN BENNETT"
+    ],
+    "A-M SYSTEMS": [
+      "A-M SYSTEMS"
+    ],
+    "MEDICAL GRAPHICS": [
+      "MEDICAL GRAPHICS"
+    ],
+    "NIKON": [
+      "NIKON"
+    ],
+    "INTERACOUSTICS": [
+      "INTERACOUSTICS"
+    ],
+    "KARL STORZ ENDOVISION": [
+      "KARL STORZ ENDOSCOPY",
+      "KARL STORZ ENDOVISION",
+      "STORZ",
+      "STORZ KARL"
+    ],
+    "IMEX MEDICAL SYSTEMS": [
+      "IMEX MEDICAL SYSTEMS"
+    ],
+    "NICOLET VASCULAR": [
+      "NICOLET VASCULAR"
+    ],
+    "GE MEDICAL SYSTEMS": [
+      "G.E. MEDICAL SYSTEMS",
+      "GE HEALTHCARE",
+      "GE MEDICAL",
+      "GE MEDICAL SYSTEMS",
+      "GENERAL ELECTRIC"
+    ],
+    "FLUID FLO": [
+      "FLUID FLO"
+    ],
+    "PELSTAR HEALTH O METER": [
+      "HEALTH O METER",
+      "HEALTH-O-METER",
+      "HEALTHOMETER",
+      "PELSTAR",
+      "PELSTAR HEALTH O METER"
+    ],
+    "FUJIFILM SONOSITE": [
+      "FUJIFILM SONOSITE",
+      "FUJIFILM SONOSITE INC",
+      "SONOSITE",
+      "SONOSITE INC"
+    ],
+    "BERKELEY": [
+      "BERKELEY"
+    ],
+    "GYRUS ACMI": [
+      "GYRUS ACMI"
+    ],
+    "DEVILBISS": [
+      "DEVILBISS"
+    ],
+    "SUNRISE MEDICAL": [
+      "SUNRISE MEDICAL"
+    ],
+    "EDAN INSTRUMENTS": [
+      "EDAN INSTRUMENTS"
+    ],
+    "MEDLINE INDUSTRIES": [
+      "MEDLINE IND",
+      "MEDLINE INDUSTRIES",
+      "MEDLINE INDUSTRIES INC"
+    ],
+    "SPENCER": [
+      "SPENCER"
+    ],
+    "OLYMPUS AMERICA": [
+      "OLYMPUS AMERICA",
+      "OLYMPUS CORP OF THE AMERICAS",
+      "OLYMPUS MEDICAL SYSTEMS"
+    ],
+    "PORTABLE LAMP": [
+      "PORTABLE LAMP"
+    ],
+    "PULMO AIDE": [
+      "PULMO AIDE"
+    ],
+    "HERAEUS INSTRUMENTS": [
+      "HERAEUS INSTRUMENTS"
+    ],
+    "BAXTER SCIENTIFIC": [
+      "BAXTER",
+      "BAXTER FENWALL",
+      "BAXTER SCIENTIFIC"
+    ],
+    "BIRTCHER": [
+      "BIRTCHER"
+    ],
+    "CONMED": [
+      "CONMED",
+      "CONMED LINVATEC"
+    ],
+    "GRAHAM FIELD": [
+      "GRAHAM FIELD"
+    ],
+    "MOFFATT": [
+      "MOFFATT"
+    ],
+    "NDD MEDICAL TECHNOLOGIES": [
+      "NDD MEDICAL TECHNOLOGIES"
+    ],
+    "HANS RUDOLPH": [
+      "HANS RUDOLPH"
+    ],
+    "SAMMONS PRESTON": [
+      "SAMMONS PRESTON"
+    ],
+    "PATTERSON MEDICAL": [
+      "PATTERSON MEDICAL"
+    ],
+    "AARON MEDICAL INDUSTRIES": [
+      "AARON MEDICAL INDUSTRIES"
+    ],
+    "BOVIE MEDICAL": [
+      "BOVIE MEDICAL"
+    ],
+    "ENTELA": [
+      "ENTELA"
+    ],
+    "ULTRAVIOLET PRODUCTS": [
+      "ULTRAVIOLET PRODUCTS"
+    ],
+    "JOHNSON & JOHNSON": [
+      "JOHNSON & JOHNSON"
+    ],
+    "MICRO TYPING SYSTEMS (MTS)": [
+      "MICRO TYPING SYSTEMS (MTS)"
+    ],
+    "NEURO TECHNOLOGY": [
+      "NEURO TECHNOLOGY"
+    ],
+    "ORGANON TEKNIKA": [
+      "ORGANON TEKNIKA"
+    ],
+    "EXERGEN CORPORATION": [
+      "EXERGEN",
+      "EXERGEN CORP",
+      "EXERGEN CORPORATION"
+    ],
+    "AEROGEN": [
+      "AEROGEN",
+      "AEROGEN INC",
+      "AEROGEN LTD"
+    ],
+    "SPACELABS MEDICAL": [
+      "SPACE LABS",
+      "SPACELABS HEALTHCARE",
+      "SPACELABS MEDICAL"
+    ],
+    "NIHON KOHDEN": [
+      "NIHON KOHDEN",
+      "NIHON KOHDEN AMERICA",
+      "NIHONKOHDEN"
+    ],
+    "COVIDIEN": [
+      "COVIDEN",
+      "COVIDIEN",
+      "COVIDIEN LP"
+    ],
+    "ARJO HUNTLEIGH": [
+      "ARJO",
+      "ARJO HUNTLEIGH",
+      "ARJOHUNTLEIGH"
+    ],
+    "CAREFUSION": [
+      "BD CAREFUSION",
+      "CARE FUSION",
+      "CAREFUSION",
+      "CAREFUSION 303"
+    ],
+    "NATUS MEDICAL": [
+      "NATUS MEDICAL",
+      "NATUS NEUROLOGY"
+    ],
+    "SAMSUNG MEDISON": [
+      "MEDISON",
+      "SAMSUNG",
+      "SAMSUNG ELECTRONICS AMERICA",
+      "SAMSUNG MEDISON"
+    ],
+    "STERIS CORPORATION": [
+      "STERIS",
+      "STERIS CORP",
+      "STERIS CORPORATION"
+    ],
+    "SIEMENS MEDICAL": [
+      "SIEMENS",
+      "SIEMENS HEALTHCARE",
+      "SIEMENS HEALTHCARE DIAGNOSTICS",
+      "SIEMENS HEALTHINEERS",
+      "SIEMENS MEDICAL"
+    ],
+    "MORTARA INSTRUMENTS INC": [
+      "MORTARA",
+      "MORTARA INSTRUMENT",
+      "MORTARA INSTRUMENTS INC"
+    ],
+    "AJUSTO EQUIP": [
+      "AJUSTO EQUIP"
+    ],
+    "ADJUSTABLE FIXTURE": [
+      "ADJUSTABLE FIXTURE"
+    ],
+    "LEVITON MANUFACTURING": [
+      "LEVITON MANUFACTURING"
+    ],
+    "WELCH ALLYN": [
+      "HILL-ROM",
+      "HILLROM AIR SHIELDS",
+      "HILLROM WELCH ALLYN",
+      "WELCH ALLYN",
+      "WELCH ALLYN DIATEK",
+      "WELCH-ALLYN",
+      "WELCHALLYN"
+    ],
+    "STRYKER MEDICAL": [
+      "STRKYER MEDICAL",
+      "STRYKER CORP",
+      "STRYKER MED",
+      "STRYKER MEDICAL"
+    ],
+    "ZOLL MEDICAL": [
+      "ZOLL",
+      "ZOLL MEDICAL",
+      "ZOLL MEDICAL CORP",
+      "ZOLL MEDICAL CORPORATION"
+    ],
+    "3M HEALTHCARE": [
+      "3M COMPANY",
+      "3M HEALTHCARE",
+      "3M MEDICAL",
+      "MINNESOTA MINING AND MANUFACTURING"
+    ],
+    "KENDALL": [
+      "KENDALL"
+    ],
+    "BURDICK": [
+      "BURDICK"
+    ],
+    "ARIZANT HEALTHCARE": [
+      "ARIZANT HEALTHCARE"
+    ],
+    "JARDEN": [
+      "JARDEN"
+    ],
+    "ADVANCED ULTRAVIOLET SYSTEMS": [
+      "ADVANCED ULTRAVIOLET SYSTEMS"
+    ],
+    "ADVANCED STERILIZATION PRODUCTS (ASP)": [
+      "ADVANCED STERILIZATION PRODUCTS (ASP)"
+    ],
+    "ADVANCED INSTRUMENTS": [
+      "ADVANCED INSTRUMENTS"
+    ],
+    "A-DEC": [
+      "A-DEC"
+    ],
+    "ABBOTT MEDICAL OPTICS": [
+      "ABBOTT LABORATORIES",
+      "ABBOTT MEDICAL OPTICS"
+    ],
+    "AMSCO INSTRUMENT": [
+      "AMSCO INSTRUMENT",
+      "AMSCO MEDICAL PRODUCTS"
+    ],
+    "BIO-MEDICAL DEVICES": [
+      "BIO-MED DEVICES",
+      "BIO-MEDICAL DEVICES"
+    ],
+    "CARDINAL HEALTH": [
+      "CARDINAL HEALTH"
+    ],
+    "CARL ZEISS": [
+      "CARL ZEISS",
+      "CARL ZEISS MEDITEC",
+      "ZEISS HUMPHREY SYSTEMS"
+    ],
+    "DRUCKER DIAGNOSTICS": [
+      "DRUCKER DIAGNOSTICS",
+      "THE DRUCKER COMPANY"
+    ],
+    "THERMO FISHER SCIENTIFIC": [
+      "FISHER SCIENTIFIC INTERNATIONAL",
+      "THERMO FISHER SCIENTIFIC",
+      "THERMO SCIENTIFIC"
+    ],
+    "FISHER PAYKEL": [
+      "FISHER PAYKEL"
+    ],
+    "FLUKE BIOMEDICAL": [
+      "FLUKE",
+      "FLUKE BIOMEDICAL"
+    ],
+    "GENERAL PHYSIOTHERAPY": [
+      "GENERAL PHYSIOTHERAPY"
+    ],
+    "GLOBAL FOCUS MARKETING (GFMD)": [
+      "GLOBAL FOCUS MARKETING (GFMD)"
+    ],
+    "GLOBAL SURGICAL": [
+      "GLOBAL SURGICAL"
+    ],
+    "HAMILTON MEDICAL": [
+      "HAMILTON MEDICAL"
+    ],
+    "HILL LABORATORIES": [
+      "HILL LABORATORIES"
+    ],
+    "INTERNATIONAL BIOMEDICAL": [
+      "INTERNATIONAL BIOMEDICAL"
+    ],
+    "INTERNATIONAL LIGHT": [
+      "INTERNATIONAL LIGHT"
+    ],
+    "LEICA MICROSYSTEMS": [
+      "LEICA BIOSYSTEMS",
+      "LEICA MICROSYSTEMS"
+    ],
+    "LIVANOVA": [
+      "LIVANOVA",
+      "LIVANOVA DEUTSCHLAND"
+    ],
+    "MCKESSON BRAND": [
+      "MCKESSON BRAND",
+      "MCKESSON MEDICAL SURGICAL"
+    ],
+    "MED SYSTEMS": [
+      "MED SYSTEMS"
+    ],
+    "MED LABS": [
+      "MED LABS"
+    ],
+    "MERGE TECHNOLOGIES": [
+      "MERGE HEALTHCARE",
+      "MERGE TECHNOLOGIES"
+    ],
+    "SAKURA FINETEK": [
+      "SAKURA FINETEK",
+      "SAKURA MEDICAL"
+    ],
+    "SHENZHEN QUICK ZOOM TECHNOLOGY": [
+      "SHENZHEN QUICK ZOOM TECHNOLOGY"
+    ],
+    "SURGICAL TABLES": [
+      "SURGICAL TABLES"
+    ],
+    "SURGICAL MECHANICAL RESEARCH": [
+      "SURGICAL MECHANICAL RESEARCH"
+    ],
+    "THOMAS ASSOCIATES": [
+      "THOMAS ASSOCIATES"
+    ],
+    "THOMAS INDUSTRIES": [
+      "THOMAS INDUSTRIES"
+    ],
+    "WOLF MEDICAL INSTRUMENTS": [
+      "WOLF MEDICAL INSTRUMENTS",
+      "WOLF XRAY"
+    ],
+    "SMITH & NEPHEW": [
+      "SMITH & NEPHEW",
+      "SMITH & NEPHEW ENDOSCOPY"
+    ],
+    "UNITED PRODUCTS & INSTRUMENTS": [
+      "UNITED PRODUCTS & INSTRUMENTS",
+      "UNITED PRODUCTS & INSTRUMENTS INC (UNICO)"
+    ],
+    "UNITED METAL FABRICATORS (UMF)": [
+      "UMF MEDICAL",
+      "UNITED METAL FABRICATORS (UMF)"
+    ],
+    "REICHERT TECHNOLOGIES": [
+      "REICHERT",
+      "REICHERT JUNG",
+      "REICHERT OPHTHALMIC INSTRUMENTS",
+      "REICHERT TECHNOLOGIES"
+    ],
+    "MEDICAL POSITIONING": [
+      "MEDICAL POSITIONING",
+      "MEDICAL POSITIONING, INC"
+    ],
+    "MEDICAL SOLUTIONS": [
+      "MEDICAL SOLUTIONS"
+    ],
+    "MEDICAL ELECTRONIC SYSTEMS": [
+      "MEDICAL ELECTRONIC SYSTEMS"
+    ],
+    "AMERICAN BIOTECH SUPPLY (ABS)": [
+      "AMERICAN BIOTECH SUPPLY (ABS)"
+    ],
+    "AMERICAN POWER CONVERSION (APC)": [
+      "AMERICAN POWER CONVERSION (APC)"
+    ],
+    "AMERICAN ORTHOMED": [
+      "AMERICAN ORTHOMED",
+      "AMERICAN ORTHOPEDIC"
+    ],
+    "AMERICAN DADE (AHS)": [
+      "AMERICAN DADE (AHS)"
+    ],
+    "AMERICAN MEDICAL SALES": [
+      "AMERICAN MEDICAL SALES"
+    ],
+    "AMERICAN OPTICAL": [
+      "AMERICAN OPTICAL"
+    ],
+    "AMERICAN SCIENTIFIC": [
+      "AMERICAN SCIENTIFIC"
+    ],
+    "CARDINAL SCALE MFG": [
+      "CARDINAL SCALE MFG"
+    ],
+    "HAMILTON MEDICAL FURNITURE": [
+      "HAMILTON MEDICAL FURNITURE"
+    ],
+    "SHENZHEN SMART DEVICE TECHNOLOGY": [
+      "SHENZHEN SMART DEVICE TECHNOLOGY"
+    ],
+    "GENTEC": [
+      "GENTEC"
+    ],
+    "CURBELL": [
+      "CURBELL"
+    ],
+    "JT POSEY": [
+      "JT POSEY"
+    ],
+    "CHATTANOOGA GROUP": [
+      "CHATTANOOGA GROUP"
+    ],
+    "RICE LAKE WEIGHING": [
+      "RICE LAKE WEIGHING"
+    ],
+    "ORIDION MEDICAL 1987": [
+      "ORIDION MEDICAL 1987"
+    ],
+    "SECA": [
+      "SECA"
+    ],
+    "HELMER SCIENTIFIC": [
+      "HELMER SCIENTIFIC"
+    ],
+    "SONY": [
+      "SONY"
+    ],
+    "ERBE": [
+      "ERBE"
+    ],
+    "BUFFALO FILTER": [
+      "BUFFALO FILTER"
+    ],
+    "POWERVAR": [
+      "POWERVAR"
+    ],
+    "MAXAIR": [
+      "MAXAIR"
+    ],
+    "DRAEGER": [
+      "DRAEGER"
+    ],
+    "BURTON MEDICAL": [
+      "BURTON MEDICAL"
+    ],
+    "CRITICAL ALERT SYSTEMS": [
+      "CRITICAL ALERT SYSTEMS"
+    ],
+    "TOSHIBA AMERICA MEDICAL SYSTEMS": [
+      "TOSHIBA AMERICA MEDICAL SYSTEMS"
+    ],
+    "VALLEYLAB": [
+      "VALLEYLAB"
+    ],
+    "SEATING MATTERS": [
+      "SEATING MATTERS"
+    ],
+    "SCIFIT": [
+      "SCIFIT"
+    ],
+    "ARTHREX": [
+      "ARTHREX"
+    ],
+    "SCOTTCARE": [
+      "SCOTTCARE"
+    ],
+    "DETECTO": [
+      "DETECTO"
+    ],
+    "VERATHON MEDICAL": [
+      "VERATHON MEDICAL"
+    ],
+    "NDS SURGICAL IMAGING": [
+      "NDS SURGICAL IMAGING"
+    ],
+    "GOMCO": [
+      "GOMCO"
+    ],
+    "MEDIVATORS": [
+      "MEDIVATORS"
+    ],
+    "JAMAR": [
+      "JAMAR"
+    ],
+    "SALTER LABS": [
+      "SALTER LABS"
+    ],
+    "NANOSONICS": [
+      "NANOSONICS"
+    ],
+    "HOLOGIC": [
+      "HOLOGIC"
+    ],
+    "BLICKMAN HEALTH INDUSTRIES": [
+      "BLICKMAN HEALTH INDUSTRIES"
+    ],
+    "SCHWINN BICYCLE": [
+      "SCHWINN BICYCLE"
+    ],
+    "PRONK TECHNOLOGIES": [
+      "PRONK TECHNOLOGIES"
+    ],
+    "NEUROVIRTUAL": [
+      "NEUROVIRTUAL"
+    ],
+    "MEDICOOL": [
+      "MEDICOOL"
+    ],
+    "MAXTEC": [
+      "MAXTEC"
+    ],
+    "COROMETRICS MEDICAL SYSTEMS": [
+      "COROMETRICS MEDICAL SYSTEMS"
+    ],
+    "BOSTON SCIENTIFIC": [
+      "BOSTON SCIENTIFIC"
+    ],
+    "BENSON MEDICAL INSTRUMENTS": [
+      "BENSON MEDICAL INSTRUMENTS"
+    ],
+    "BC GROUP INTERNATIONAL": [
+      "BC GROUP INTERNATIONAL"
+    ],
+    "SKYTRON": [
+      "SKYTRON"
+    ],
+    "SDI DIAGNOSTICS": [
+      "SDI DIAGNOSTICS"
+    ],
+    "SCALE TRONIX": [
+      "SCALE TRONIX"
+    ],
+    "KOVEN TECHNOLOGY": [
+      "KOVEN TECHNOLOGY"
+    ],
+    "NONIN MEDICAL": [
+      "NONIN MEDICAL"
+    ],
+    "BECTON DICKINSON (BD)": [
+      "BECTON DICKINSON (BD)"
+    ],
+    "OMRON HEALTHCARE": [
+      "OMRON HEALTHCARE"
+    ],
+    "KONICA MINOLTA MEDICAL IMAGING": [
+      "KONICA MINOLTA MEDICAL IMAGING"
+    ],
+    "ALLIED HEALTHCARE": [
+      "ALLIED HEALTHCARE"
+    ],
+    "SECHRIST INDUSTRIES": [
+      "SECHRIST INDUSTRIES"
+    ],
+    "MINDRAY": [
+      "MINDRAY"
+    ],
+    "ITAMAR MEDICAL": [
+      "ITAMAR MEDICAL"
+    ],
+    "CMI": [
+      "CMI"
+    ],
+    "LUXTEC": [
+      "LUXTEC"
+    ],
+    "ZIMMER": [
+      "ZIMMER"
+    ],
+    "TROEMNER": [
+      "TROEMNER"
+    ],
+    "SYSMEX AMERICA": [
+      "SYSMEX AMERICA"
+    ],
+    "RESMED": [
+      "RESMED"
+    ],
+    "DYNATRONICS": [
+      "DYNATRONICS"
+    ],
+    "CHRISTIE MEDICAL INNOVATIONS": [
+      "CHRISTIE MEDICAL INNOVATIONS"
+    ],
+    "BERCHTOLD": [
+      "BERCHTOLD"
+    ],
+    "ARMEDICA": [
+      "ARMEDICA"
+    ],
+    "HETTICH": [
+      "HETTICH"
+    ],
+    "BIODEX MEDICAL SYSTEMS": [
+      "BIODEX MEDICAL SYSTEMS"
+    ],
+    "ST JUDE MEDICAL": [
+      "ST JUDE MEDICAL"
+    ],
+    "RELIANCE MEDICAL PRODUCTS": [
+      "RELIANCE MEDICAL PRODUCTS"
+    ],
+    "MASIMO": [
+      "MASIMO"
+    ],
+    "LINET": [
+      "LINET"
+    ],
+    "LIFE FITNESS": [
+      "LIFE FITNESS"
+    ],
+    "HOSPIRA": [
+      "HOSPIRA"
+    ],
+    "HEWLETT PACKARD": [
+      "HEWLETT PACKARD"
+    ],
+    "HERITAGE MEDICAL PRODUCTS": [
+      "HERITAGE MEDICAL PRODUCTS"
+    ],
+    "ETHICON ENDO SURGERY": [
+      "ETHICON ENDO SURGERY"
+    ],
+    "ACIST MEDICAL SYSTEMS": [
+      "ACIST MEDICAL SYSTEMS"
+    ],
+    "TANITA": [
+      "TANITA"
+    ],
+    "SELECT MEDICAL PRODUCTS": [
+      "SELECT MEDICAL PRODUCTS"
+    ],
+    "PREMIER MEDICAL PRODUCTS": [
+      "PREMIER MEDICAL PRODUCTS"
+    ],
+    "PRECISION MEDICAL": [
+      "PRECISION MEDICAL"
+    ],
+    "PEDIGO PRODUCTS": [
+      "PEDIGO PRODUCTS"
+    ],
+    "ORTHO CLINICAL DIAGNOSTICS": [
+      "ORTHO CLINICAL DIAGNOSTICS"
+    ],
+    "MAICO DIAGNOSTICS": [
+      "MAICO DIAGNOSTICS"
+    ],
+    "INVACARE": [
+      "INVACARE"
+    ],
+    "INSTRUMENTATION LABORATORY": [
+      "INSTRUMENTATION LABORATORY"
+    ],
+    "EDWARDS LIFESCIENCE": [
+      "EDWARDS LIFESCIENCE"
+    ],
+    "CYBEX": [
+      "CYBEX"
+    ],
+    "CLINTON INDUSTRIES": [
+      "CLINTON INDUSTRIES"
+    ],
+    "CANON": [
+      "CANON"
+    ],
+    "CADWELL LABORATORIES": [
+      "CADWELL LABORATORIES"
+    ],
+    "ACCUCOLD": [
+      "ACCUCOLD"
+    ],
+    "VAPOTHERM": [
+      "VAPOTHERM"
+    ],
+    "PERFORMANCE HEALTH SYSTEMS": [
+      "PERFORMANCE HEALTH SYSTEMS"
+    ],
+    "GRASON-STADLER": [
+      "GRASON-STADLER"
+    ],
+    "EXCEL TECHNOLOGY": [
+      "EXCEL TECHNOLOGY"
+    ],
+    "CYBERPOWER": [
+      "CYBERPOWER"
+    ],
+    "CINCINNATI SUB-ZERO": [
+      "CINCINNATI SUB-ZERO"
+    ],
+    "BRACCO IMAGING": [
+      "BRACCO IMAGING"
+    ],
+    "BOEKEL SCIENTIFIC": [
+      "BOEKEL SCIENTIFIC"
+    ],
+    "BARD ACCESS SYSTEMS": [
+      "BARD ACCESS SYSTEMS"
+    ],
+    "ABLE": [
+      "ABLE"
+    ],
+    "YUWELL": [
+      "YUWELL"
+    ],
+    "THE BREWER COMPANY": [
+      "THE BREWER COMPANY"
+    ],
+    "SUMMITT DOPPLER SYSTEMS": [
+      "SUMMITT DOPPLER SYSTEMS"
+    ],
+    "STOCKERT": [
+      "STOCKERT"
+    ],
+    "STATSPIN": [
+      "STATSPIN"
+    ],
+    "SANYO": [
+      "SANYO"
+    ],
+    "QUINTON INSTRUMENTS": [
+      "QUINTON INSTRUMENTS"
+    ],
+    "PENTAX MEDICAL": [
+      "PENTAX MEDICAL"
+    ],
+    "PARKER LABORATORIES": [
+      "PARKER LABORATORIES"
+    ],
+    "OHIO MEDICAL": [
+      "OHIO MEDICAL"
+    ],
+    "OHAUS": [
+      "OHAUS"
+    ],
+    "MEDSOURCE INTERNATIONAL": [
+      "MEDSOURCE INTERNATIONAL"
+    ],
+    "LOUROE ELECTRONICS": [
+      "LOUROE ELECTRONICS"
+    ],
+    "IDEAL PRODUCTS": [
+      "IDEAL PRODUCTS"
+    ],
+    "HONEYWELL": [
+      "HONEYWELL"
+    ],
+    "HAAG-STREIT SERVICE": [
+      "HAAG-STREIT SERVICE"
+    ],
+    "FULL VISION": [
+      "FULL VISION"
+    ],
+    "EXTECH INSTRUMENTS": [
+      "EXTECH INSTRUMENTS"
+    ],
+    "BOEHRINGER LABORATORIES": [
+      "BOEHRINGER LABORATORIES"
+    ],
+    "BIOSENSE WEBSTER": [
+      "BIOSENSE WEBSTER"
+    ],
+    "BIOFIRE DIAGNOSTICS": [
+      "BIOFIRE DIAGNOSTICS"
+    ],
+    "AVANOS MEDICAL": [
+      "AVANOS MEDICAL"
+    ],
+    "3GEN": [
+      "3GEN"
+    ],
+    "SSCOR": [
+      "SSCOR"
+    ],
+    "QSONICA": [
+      "QSONICA"
+    ],
+    "PSS SELECT": [
+      "PSS SELECT"
+    ],
+    "PARKS MEDICAL": [
+      "PARKS MEDICAL"
+    ],
+    "NATIONAL BIOLOGICAL": [
+      "NATIONAL BIOLOGICAL"
+    ],
+    "MINERVA SURGICAL": [
+      "MINERVA SURGICAL"
+    ],
+    "MILLIPORE": [
+      "MILLIPORE"
+    ],
+    "METRON MEDICAL": [
+      "METRON MEDICAL"
+    ],
+    "MEDRAD": [
+      "MEDRAD"
+    ],
+    "MEDQUIP": [
+      "MEDQUIP"
+    ],
+    "HETAIDA TECHNOLOGY": [
+      "HETAIDA TECHNOLOGY"
+    ],
+    "HEISE": [
+      "HEISE"
+    ],
+    "FOLLETT": [
+      "FOLLETT"
+    ],
+    "ENTHERMICS MEDICAL SYSTEMS": [
+      "ENTHERMICS MEDICAL SYSTEMS"
+    ],
+    "ECKEL INDUSTRIES": [
+      "ECKEL INDUSTRIES"
+    ],
+    "EATON POWER QUALITY SOLUTIONS": [
+      "EATON POWER QUALITY SOLUTIONS"
+    ],
+    "DMI HEALTHCARE": [
+      "DMI HEALTHCARE"
+    ],
+    "DANBY": [
+      "DANBY"
+    ],
+    "CLAY ADAMS": [
+      "CLAY ADAMS"
+    ],
+    "BRECKNELL": [
+      "BRECKNELL"
+    ],
+    "BIOMERIEUX": [
+      "BIOMERIEUX"
+    ],
+    "BETTER BUILT": [
+      "BETTER BUILT"
+    ],
+    "BELMONT": [
+      "BELMONT"
+    ],
+    "B BRAUN/MCGAW": [
+      "B BRAUN/MCGAW"
+    ],
+    "ARTHROCARE": [
+      "ARTHROCARE"
+    ],
+    "ARKRAY": [
+      "ARKRAY"
+    ],
+    "ZCOVER": [
+      "ZCOVER"
+    ],
+    "WR MEDICAL ELECTRONICS": [
+      "WR MEDICAL ELECTRONICS"
+    ],
+    "WHITEHALL MANUFACTURING": [
+      "WHITEHALL MANUFACTURING"
+    ],
+    "WALLACH SURGICAL DEVICES": [
+      "WALLACH SURGICAL DEVICES"
+    ],
+    "US VASCULAR": [
+      "US VASCULAR"
+    ],
+    "TRUMPF MEDICAL SYSTEMS": [
+      "TRUMPF MEDICAL SYSTEMS"
+    ],
+    "TRIPP LITE WORLDWIDE": [
+      "TRIPP LITE WORLDWIDE"
+    ],
+    "TRI W-G": [
+      "TRI W-G"
+    ],
+    "TOPCON": [
+      "TOPCON"
+    ],
+    "THE BAKER COMPANY": [
+      "THE BAKER COMPANY"
+    ],
+    "SUMMIT APPLIANCES": [
+      "SUMMIT APPLIANCES"
+    ],
+    "SPORTS ART": [
+      "SPORTS ART"
+    ],
+    "SPIRIT FITNESS": [
+      "SPIRIT FITNESS"
+    ],
+    "SPECTROLINE": [
+      "SPECTROLINE"
+    ],
+    "SO-LOW ENVIRNOMENTAL EQUIPMENT": [
+      "SO-LOW ENVIRNOMENTAL EQUIPMENT"
+    ],
+    "QUIDEL": [
+      "QUIDEL"
+    ],
+    "NORLAKE SCIENTIFIC": [
+      "NORLAKE SCIENTIFIC"
+    ],
+    "MIZUHO OSI": [
+      "MIZUHO OSI"
+    ],
+    "MGC DIAGNOSTICS": [
+      "MGC DIAGNOSTICS"
+    ],
+    "MENTOR": [
+      "MENTOR"
+    ],
+    "MAXANT DIVISION OF ELECO": [
+      "MAXANT DIVISION OF ELECO"
+    ],
+    "MAQUET": [
+      "MAQUET"
+    ],
+    "JACE SYSTEMS": [
+      "JACE SYSTEMS"
+    ],
+    "INTUITIVE SURGICAL": [
+      "INTUITIVE SURGICAL"
+    ],
+    "INTEGRITECH": [
+      "INTEGRITECH"
+    ],
+    "HAUSMANN INDUSTRIES": [
+      "HAUSMANN INDUSTRIES"
+    ],
+    "GOOSENECK": [
+      "GOOSENECK"
+    ],
+    "FRIGIDAIRE": [
+      "FRIGIDAIRE"
+    ],
+    "FELIX STORCH": [
+      "FELIX STORCH"
+    ],
+    "EMPI": [
+      "EMPI"
+    ],
+    "EDGESTAR": [
+      "EDGESTAR"
+    ],
+    "DRW MEDICAL": [
+      "DRW MEDICAL"
+    ],
+    "CONTINENTAL METAL PRODUCTS": [
+      "CONTINENTAL METAL PRODUCTS"
+    ],
+    "CARDIOQUIP": [
+      "CARDIOQUIP"
+    ],
+    "BSN MEDICAL": [
+      "BSN MEDICAL"
+    ],
+    "BENCHMARK SCIENTIFIC": [
+      "BENCHMARK SCIENTIFIC"
+    ],
+    "ARGENT SURGICAL SYSTEMS": [
+      "ARGENT SURGICAL SYSTEMS"
+    ],
+    "ANESTHESIA ASSOCIATES": [
+      "ANESTHESIA ASSOCIATES"
+    ],
+    "AMBCO ELECTRONICS": [
+      "AMBCO ELECTRONICS"
+    ],
+    "ALICN MEDICAL SHENZHEN": [
+      "ALICN MEDICAL SHENZHEN"
+    ],
+    "ALCO ELECTRONICS": [
+      "ALCO ELECTRONICS"
+    ],
+    "ACOUSTIC SYSTEMS": [
+      "ACOUSTIC SYSTEMS"
+    ],
+    "ACCUVEIN": [
+      "ACCUVEIN"
+    ],
+    "ABIOMED": [
+      "ABIOMED"
+    ],
+    "XLTEK": [
+      "XLTEK"
+    ],
+    "XENEX": [
+      "XENEX"
+    ],
+    "UNISEN": [
+      "UNISEN"
+    ],
+    "UNICO": [
+      "UNICO"
+    ],
+    "TOTAL GYM": [
+      "TOTAL GYM"
+    ],
+    "TOSOH BIOSCIENCE": [
+      "TOSOH BIOSCIENCE"
+    ],
+    "TITMUS OPTICAL": [
+      "TITMUS OPTICAL"
+    ],
+    "SUNTECH MEDICAL INSTRUMENTS": [
+      "SUNTECH MEDICAL INSTRUMENTS"
+    ],
+    "STEREO OPTICAL": [
+      "STEREO OPTICAL"
+    ],
+    "SOLAR LIGHT": [
+      "SOLAR LIGHT"
+    ],
+    "SKYLINE MEDICAL": [
+      "SKYLINE MEDICAL"
+    ],
+    "SHIMADZU MEDICAL SYSTEMS": [
+      "SHIMADZU MEDICAL SYSTEMS"
+    ],
+    "SCHILLER AMERICA": [
+      "SCHILLER AMERICA"
+    ],
+    "SAGE": [
+      "SAGE"
+    ],
+    "ROCHE DIAGNOSTICS": [
+      "ROCHE DIAGNOSTICS"
+    ],
+    "RH BURTON": [
+      "R H BURTON CO",
+      "RH BURTON"
+    ],
+    "RENPHO": [
+      "RENPHO"
+    ],
+    "QUINCY LAB": [
+      "QUINCY LAB"
+    ],
+    "Q CORE MEDICAL": [
+      "Q CORE MEDICAL"
+    ],
+    "PERRY BAROMEDICAL": [
+      "PERRY BAROMEDICAL"
+    ],
+    "PATHWAY": [
+      "PATHWAY"
+    ],
+    "ORTHOSCAN": [
+      "ORTHOSCAN"
+    ],
+    "OCTANE FITNESS": [
+      "OCTANE FITNESS"
+    ],
+    "NUSTEP": [
+      "NUSTEP"
+    ],
+    "MYLOX TECHNOLOGIES": [
+      "MYLOX TECHNOLOGIES"
+    ],
+    "MONICA HEALTHCARE": [
+      "MONICA HEALTHCARE"
+    ],
+    "MOBILITY RESEARCH": [
+      "MOBILITY RESEARCH"
+    ],
+    "MIDLAND MANUFACTURING": [
+      "MIDLAND MANUFACTURING"
+    ],
+    "MICROMEDICAL TECHNOLOGIES": [
+      "MICROMEDICAL TECHNOLOGIES"
+    ],
+    "METTLER ELECTRONICS": [
+      "METTLER ELECTRONICS"
+    ],
+    "MEDELA": [
+      "MEDELA"
+    ],
+    "MATRIX FITNESS": [
+      "MATRIX FITNESS"
+    ],
+    "MARCO OPTHALMIC": [
+      "MARCO OPTHALMIC"
+    ],
+    "MAGIC CHEF": [
+      "MAGIC CHEF"
+    ],
+    "MAC MEDICAL": [
+      "MAC MEDICAL"
+    ],
+    "M PACT": [
+      "M PACT"
+    ],
+    "LUMEON": [
+      "LUMEON"
+    ],
+    "LIEBEL FLARSHEIM": [
+      "LIEBEL FLARSHEIM"
+    ],
+    "LANDICE": [
+      "LANDICE"
+    ],
+    "KENMORE": [
+      "KENMORE"
+    ],
+    "KAYPENTAX": [
+      "KAYPENTAX"
+    ],
+    "JOERNS HEALTHCARE": [
+      "JOERNS HEALTHCARE"
+    ],
+    "JEDMED INSTRUMENTS": [
+      "JEDMED INSTRUMENTS"
+    ],
+    "JAN L": [
+      "JAN L"
+    ],
+    "IVY BIOMEDICAL SYSTEMS": [
+      "IVY BIOMEDICAL SYSTEMS"
+    ],
+    "INTERTEK": [
+      "INTERTEK"
+    ],
+    "INGMAR MEDICAL": [
+      "INGMAR MEDICAL"
+    ],
+    "INDUSTRIAL ACOUSTICS": [
+      "INDUSTRIAL ACOUSTICS"
+    ],
+    "IMT MEDICAL": [
+      "IMT MEDICAL"
+    ],
+    "ICU MEDICAL": [
+      "ICU MEDICAL"
+    ],
+    "GUIDANT": [
+      "GUIDANT"
+    ],
+    "GOODWIN MANUFACTURING": [
+      "GOODWIN MANUFACTURING"
+    ],
+    "EVO MEDICAL SOLUTIONS": [
+      "EVO MEDICAL SOLUTIONS"
+    ],
+    "DWYER INSTRUMENTS": [
+      "DWYER INSTRUMENTS"
+    ],
+    "CHG HOSPITAL BEDS": [
+      "CHG HOSPITAL BEDS"
+    ],
+    "CEPHEID": [
+      "CEPHEID"
+    ],
+    "CASTLE": [
+      "CASTLE"
+    ],
+    "CANVYS": [
+      "CANVYS"
+    ],
+    "BEIJING CHOICE ELECTRONIC TECHNOLOGY": [
+      "BEIJING CHOICE ELECTRONIC TECHNOLOGY"
+    ],
+    "AUGUSTINE MEDICAL": [
+      "AUGUSTINE MEDICAL"
+    ],
+    "AUDIOSCAN": [
+      "AUDIOSCAN"
+    ],
+    "ASEPTICO": [
+      "ASEPTICO"
+    ],
+    "ARTERIOCYTE": [
+      "ARTERIOCYTE"
+    ],
+    "AQUATHERM": [
+      "AQUATHERM"
+    ],
+    "ALCON": [
+      "ALCON"
+    ],
+    "AEROS INSTRUMENTS": [
+      "AEROS INSTRUMENTS"
+    ],
+    "ACTIVATEK": [
+      "ACTIVATEK"
+    ],
+    "ZEBRA TECHNOLOGIES INTERNATIONAL": [
+      "ZEBRA TECHNOLOGIES INTERNATIONAL"
+    ],
+    "YELLOW SPRINGS INSTRUMENT (YSI)": [
+      "YELLOW SPRINGS INSTRUMENT (YSI)"
+    ],
+    "WOODLYN": [
+      "WOODLYN"
+    ],
+    "WOOD LAMP": [
+      "WOOD LAMP"
+    ],
+    "WHYNTER": [
+      "WHYNTER"
+    ],
+    "WESCO": [
+      "WESCO"
+    ],
+    "WASSERSTROM": [
+      "WASSERSTROM"
+    ],
+    "WAGNER INSTRUMENTS": [
+      "WAGNER INSTRUMENTS"
+    ],
+    "VWR SCIENTIFIC": [
+      "VWR SCIENTIFIC"
+    ],
+    "VNUS MEDICAL TECHNOLOGIES": [
+      "VNUS MEDICAL TECHNOLOGIES"
+    ],
+    "VERTIV": [
+      "VERTIV"
+    ],
+    "VENTANA MEDICAL SYSTEMS": [
+      "VENTANA MEDICAL SYSTEMS"
+    ],
+    "VELP SCIENTIFICA": [
+      "VELP SCIENTIFICA"
+    ],
+    "UTAH MEDICAL PRODUCTS": [
+      "UTAH MEDICAL PRODUCTS"
+    ],
+    "ULINE": [
+      "ULINE"
+    ],
+    "UEI TEST INTSTRUMENTS": [
+      "UEI TEST INTSTRUMENTS"
+    ],
+    "TREMETRICS": [
+      "TREMETRICS"
+    ],
+    "TRACKMASTER": [
+      "TRACKMASTER"
+    ],
+    "TRACKCORE": [
+      "TRACKCORE"
+    ],
+    "TORQUE": [
+      "TORQUE"
+    ],
+    "THERMA SONIC": [
+      "THERMA SONIC"
+    ],
+    "THE JOINT JACK COMPANY": [
+      "THE JOINT JACK COMPANY"
+    ],
+    "THE DICKSON COMPANY": [
+      "THE DICKSON COMPANY"
+    ],
+    "TEKTRONIX": [
+      "TEKTRONIX"
+    ],
+    "TECA": [
+      "TECA"
+    ],
+    "TAYLOR PRECISION PRODUCTS": [
+      "TAYLOR PRECISION PRODUCTS"
+    ],
+    "TALCOTT LABS": [
+      "TALCOTT LABS"
+    ],
+    "SYNTHES": [
+      "SYNTHES"
+    ],
+    "SYMBIO": [
+      "SYMBIO"
+    ],
+    "SUNMED": [
+      "SUNMED"
+    ],
+    "STAODYN": [
+      "STAODYN"
+    ],
+    "STAIRMASTER SPORTS/MEDICAL PRODUCTS": [
+      "STAIRMASTER SPORTS/MEDICAL PRODUCTS"
+    ],
+    "SORIN BIOMEDICAL": [
+      "SORIN BIOMEDICAL"
+    ],
+    "SONOLINE": [
+      "SONOLINE"
+    ],
+    "SOCOMEC": [
+      "SOCOMEC"
+    ],
+    "SIGMA INTERNATIONAL": [
+      "SIGMA INTERNATIONAL"
+    ],
+    "SHUTTLE": [
+      "SHUTTLE"
+    ],
+    "SHARP": [
+      "SHARP"
+    ],
+    "SEILER WESTLAB": [
+      "SEILER WESTLAB"
+    ],
+    "SEIKO INSTRUMENTS": [
+      "SEIKO INSTRUMENTS"
+    ],
+    "SEARS ROEBUCK & COMPANY": [
+      "SEARS ROEBUCK & COMPANY"
+    ],
+    "SCIENTIFIC PRODUCTS": [
+      "SCIENTIFIC PRODUCTS"
+    ],
+    "SCHUCO": [
+      "SCHUCO"
+    ],
+    "SARTORIUS": [
+      "SARTORIUS"
+    ],
+    "SALIENT SURGICAL TECHNOLOGIES": [
+      "SALIENT SURGICAL TECHNOLOGIES"
+    ],
+    "ROCKER": [
+      "ROCKER"
+    ],
+    "RIKEN KEIKI": [
+      "RIKEN KEIKI"
+    ],
+    "RIESTER": [
+      "RIESTER"
+    ],
+    "RICHMAR": [
+      "RICHMAR"
+    ],
+    "RICHARD WOLF MEDICAL": [
+      "RICHARD WOLF MEDICAL"
+    ],
+    "REVCO SCIENTIFIC": [
+      "REVCO SCIENTIFIC"
+    ],
+    "RESPIRTECH": [
+      "RESPIRTECH"
+    ],
+    "RENNCO": [
+      "RENNCO"
+    ],
+    "REFLEX FITNESS PRODUCTS": [
+      "REFLEX FITNESS PRODUCTS"
+    ],
+    "RAYSAFE": [
+      "RAYSAFE"
+    ],
+    "RADIOMETER AMERICA": [
+      "RADIOMETER AMERICA"
+    ],
+    "QUEST": [
+      "QUEST"
+    ],
+    "QUALITONE": [
+      "QUALITONE"
+    ],
+    "QIAGEN": [
+      "QIAGEN"
+    ],
+    "PROMETHEUS GROUP": [
+      "PROMETHEUS GROUP"
+    ],
+    "PROFORM": [
+      "PROFORM"
+    ],
+    "PRIMUS": [
+      "PRIMUS"
+    ],
+    "PIRON SRL": [
+      "PIRON SRL"
+    ],
+    "PHS WEST": [
+      "PHS WEST"
+    ],
+    "PENUMBRA": [
+      "PENUMBRA"
+    ],
+    "PATIENT AID": [
+      "PATIENT AID"
+    ],
+    "PARI RESPIRATORY EQUIPMENT": [
+      "PARI RESPIRATORY EQUIPMENT"
+    ],
+    "PARALLEL TECHNOLOGIES": [
+      "PARALLEL TECHNOLOGIES"
+    ],
+    "OR SOLUTIONS": [
+      "OR SOLUTIONS"
+    ],
+    "OPTOMIC": [
+      "OPTOMIC"
+    ],
+    "OPTIK VIEW": [
+      "OPTIK VIEW"
+    ],
+    "OLYMPIC MEDICAL": [
+      "OLYMPIC MEDICAL"
+    ],
+    "OHMIC INSTRUMENTS": [
+      "OHMIC INSTRUMENTS"
+    ],
+    "OEC MEDICAL SYSTEMS": [
+      "OEC MEDICAL SYSTEMS"
+    ],
+    "OAKWORKS": [
+      "OAKWORKS"
+    ],
+    "OAKTON INSTRUMENTS": [
+      "OAKTON INSTRUMENTS"
+    ],
+    "NUAIRE": [
+      "NUAIRE"
+    ],
+    "NORTH COAST MEDICAL": [
+      "NORTH COAST MEDICAL"
+    ],
+    "NIGHTENGALE SALES": [
+      "NIGHTENGALE SALES"
+    ],
+    "NEUROTHERM": [
+      "NEUROTHERM"
+    ],
+    "NARCO SCIENTIFIC": [
+      "NARCO SCIENTIFIC"
+    ],
+    "MY WEIGH": [
+      "MY WEIGH"
+    ],
+    "MVP GROUP": [
+      "MVP GROUP"
+    ],
+    "MODULUS DATA SYSTEMS": [
+      "MODULUS DATA SYSTEMS"
+    ],
+    "MILES LABS": [
+      "MILES LABS"
+    ],
+    "MICHIGAN INSTRUMENT": [
+      "MICHIGAN INSTRUMENT"
+    ],
+    "MEDWEIGH": [
+      "MEDWEIGH"
+    ],
+    "MEDLED": [
+      "MEDLED"
+    ],
+    "MEDISTIM": [
+      "MEDISTIM"
+    ],
+    "MEDICOR": [
+      "MEDICOR"
+    ],
+    "MEDGRAPHICS": [
+      "MEDGRAPHICS"
+    ],
+    "MCGRATH": [
+      "MCGRATH"
+    ],
+    "MASTER APPLIANCE": [
+      "MASTER APPLIANCE"
+    ],
+    "MAGNETIC": [
+      "MAGNETIC"
+    ],
+    "MABIS HEALTHCARE": [
+      "MABIS HEALTHCARE"
+    ],
+    "LW SCIENTIFIC": [
+      "LW SCIENTIFIC"
+    ],
+    "LUMENIS": [
+      "LUMENIS"
+    ],
+    "LINDBERG/BLUE M": [
+      "LINDBERG/BLUE M"
+    ],
+    "LIKO": [
+      "LIKO"
+    ],
+    "LIEBERT": [
+      "LIEBERT"
+    ],
+    "LG ELECTRONICS": [
+      "LG ELECTRONICS"
+    ],
+    "LAFAYETTE INSTRUMENT CO": [
+      "LAFAYETTE INSTRUMENT CO"
+    ],
+    "LABORIE MEDICAL TECHNOLOGIES": [
+      "LABORIE MEDICAL TECHNOLOGIES"
+    ],
+    "LABOMED": [
+      "LABOMED"
+    ],
+    "LABCONCO": [
+      "LABCONCO"
+    ],
+    "LAB-LINE INSTRUMENTS": [
+      "LAB-LINE INSTRUMENTS"
+    ],
+    "KINETIC CONCEPTS INC (KCI)": [
+      "KINETIC CONCEPTS INC (KCI)"
+    ],
+    "KINETEC TECHNOLOGY": [
+      "KINETEC TECHNOLOGY"
+    ],
+    "KIMBERLY-CLARK HEALTH CARE": [
+      "KIMBERLY-CLARK HEALTH CARE"
+    ],
+    "KEELER": [
+      "KEELER"
+    ],
+    "JORDON SCIENTIFIC PRODUCTS": [
+      "JORDON SCIENTIFIC PRODUCTS"
+    ],
+    "JEWETT": [
+      "JEWETT"
+    ],
+    "ITO": [
+      "ITO"
+    ],
+    "ISNOW MED": [
+      "ISNOW MED"
+    ],
+    "IRVINE": [
+      "IRVINE"
+    ],
+    "IOMED": [
+      "IOMED"
+    ],
+    "INTEGRA LIFESCIENCES": [
+      "INTEGRA LIFESCIENCES"
+    ],
+    "INSPIRE MEDICAL SYSTEMS": [
+      "INSPIRE MEDICAL SYSTEMS"
+    ],
+    "INFICON": [
+      "INFICON"
+    ],
+    "IKA WORKS": [
+      "IKA WORKS"
+    ],
+    "ICS MEDICAL": [
+      "ICS MEDICAL"
+    ],
+    "ICON HEALTH & FITNESS": [
+      "ICON HEALTH & FITNESS"
+    ],
+    "HYDROCOLLATOR": [
+      "HYDROCOLLATOR"
+    ],
+    "HUNTLEIGH HEALTHCARE": [
+      "HUNTLEIGH HEALTHCARE"
+    ],
+    "HOKANSON": [
+      "HOKANSON"
+    ],
+    "HOGGAN HEALTH INDUSTRIES": [
+      "HOGGAN HEALTH INDUSTRIES"
+    ],
+    "HISENSE": [
+      "HISENSE"
+    ],
+    "HEINE": [
+      "HEINE"
+    ],
+    "HEARTSINE TECHNOLOGIES": [
+      "HEARTSINE TECHNOLOGIES"
+    ],
+    "HEALTHMARK INDUSTRIES": [
+      "HEALTHMARK INDUSTRIES"
+    ],
+    "HEALTHCARE INTERNATIONAL": [
+      "HEALTHCARE INTERNATIONAL"
+    ],
+    "HAUSTED": [
+      "HAUSTED"
+    ],
+    "HAIER": [
+      "HAIER"
+    ],
+    "HAEMONETICS": [
+      "HAEMONETICS"
+    ],
+    "HADECO": [
+      "HADECO"
+    ],
+    "GRIMM SCIENTIFIC": [
+      "GRIMM SCIENTIFIC"
+    ],
+    "GAYMAR INDUSTRIES": [
+      "GAYMAR INDUSTRIES"
+    ],
+    "GAST MANUFACTURING": [
+      "GAST MANUFACTURING"
+    ],
+    "GALANZ": [
+      "GALANZ"
+    ],
+    "FUTURE HEALTH CONCEPTS (FHC)": [
+      "FUTURE HEALTH CONCEPTS (FHC)"
+    ],
+    "FURNISS": [
+      "FURNISS"
+    ],
+    "FSN MEDICAL": [
+      "FSN MEDICAL"
+    ],
+    "FSM": [
+      "FSM"
+    ],
+    "FRIGIDARE": [
+      "FRIGIDARE"
+    ],
+    "FREEMOTION FITNESS": [
+      "FREEMOTION FITNESS"
+    ],
+    "FORMA SCIENTIFIC": [
+      "FORMA SCIENTIFIC"
+    ],
+    "FIRST DEGREE FITNESS": [
+      "FIRST DEGREE FITNESS"
+    ],
+    "FATHOM TECHNOLOGIES": [
+      "FATHOM TECHNOLOGIES"
+    ],
+    "FAMOS": [
+      "FAMOS"
+    ],
+    "ETEKCITY": [
+      "ETEKCITY"
+    ],
+    "ERS BIOMEDICAL": [
+      "ERS BIOMEDICAL"
+    ],
+    "ELGA": [
+      "ELGA"
+    ],
+    "ELECTROLUX": [
+      "ELECTROLUX"
+    ],
+    "EKOS": [
+      "EKOS"
+    ],
+    "EINSTEIN ASSOCIATES": [
+      "EINSTEIN ASSOCIATES"
+    ],
+    "EATSMART": [
+      "EATSMART"
+    ],
+    "DYNAVISION": [
+      "DYNAVISION"
+    ],
+    "DYMO": [
+      "DYMO"
+    ],
+    "DUSA PHARMACEUTICALS": [
+      "DUSA PHARMACEUTICALS"
+    ],
+    "DRIVE MEDICAL": [
+      "DRIVE MEDICAL"
+    ],
+    "DNTL WORKS": [
+      "DNTL WORKS"
+    ],
+    "DIROS TECHNOLOGY": [
+      "DIROS TECHNOLOGY"
+    ],
+    "DIOMED": [
+      "DIOMED"
+    ],
+    "DIMPLEX THERMAL SOLUTIONS": [
+      "DIMPLEX THERMAL SOLUTIONS"
+    ],
+    "DIFFCOUNT": [
+      "DIFFCOUNT"
+    ],
+    "DIASORIN": [
+      "DIASORIN"
+    ],
+    "DEVICOR MEDICAL PRODUCTS": [
+      "DEVICOR MEDICAL PRODUCTS"
+    ],
+    "DEPISTEO": [
+      "DEPISTEO"
+    ],
+    "DELFI MEDICAL INNOVATIONS": [
+      "DELFI MEDICAL INNOVATIONS"
+    ],
+    "DEL MEDICAL": [
+      "DEL MEDICAL"
+    ],
+    "DE SOUTTER MEDICAL": [
+      "DE SOUTTER MEDICAL"
+    ],
+    "DADE BEHRING DIVISION": [
+      "DADE BEHRING DIVISION"
+    ],
+    "DAAVLIN": [
+      "DAAVLIN"
+    ],
+    "CUBII": [
+      "CUBII"
+    ],
+    "CROSLEY": [
+      "CROSLEY"
+    ],
+    "CRESTRON": [
+      "CRESTRON"
+    ],
+    "CORNING MEDICAL": [
+      "CORNING MEDICAL"
+    ],
+    "COOPERSURGICAL": [
+      "COOPERSURGICAL"
+    ],
+    "CONTEC MEDICAL SYSTEMS": [
+      "CONTEC MEDICAL SYSTEMS"
+    ],
+    "COMMUNICATIONS & POWER INDUSTRIES (CPI)": [
+      "COMMUNICATIONS & POWER INDUSTRIES (CPI)"
+    ],
+    "COMMERCIAL REFRIGERATOR DOOR (STYLELINE)": [
+      "COMMERCIAL REFRIGERATOR DOOR (STYLELINE)"
+    ],
+    "CARI-ALL HEALTHCARE": [
+      "CARI-ALL HEALTHCARE"
+    ],
+    "CARETALK": [
+      "CARETALK"
+    ],
+    "BURMAX": [
+      "BURMAX"
+    ],
+    "BRANDT INDUSTRIES": [
+      "BRANDT INDUSTRIES"
+    ],
+    "BIOTRONIK": [
+      "BIOTRONIK"
+    ],
+    "BIOSYNERGY": [
+      "BIOSYNERGY"
+    ],
+    "BIOFRONTERA PHARMA": [
+      "BIOFRONTERA PHARMA"
+    ],
+    "BEFOUR": [
+      "BEFOUR"
+    ],
+    "BCI INTERNATIONAL": [
+      "BCI INTERNATIONAL"
+    ],
+    "BAYLIS MEDICAL": [
+      "BAYLIS MEDICAL"
+    ],
+    "BAYER HEALTHCARE": [
+      "BAYER HEALTHCARE"
+    ],
+    "BARNSTEAD/LABLINE": [
+      "BARNSTEAD/LABLINE"
+    ],
+    "BARCO": [
+      "BARCO"
+    ],
+    "AVOX SYSTEMS": [
+      "AVOX SYSTEMS"
+    ],
+    "ATTEST": [
+      "ATTEST"
+    ],
+    "ATRICURE": [
+      "ATRICURE"
+    ],
+    "ASHCROFT": [
+      "ASHCROFT"
+    ],
+    "ASCOM": [
+      "ASCOM"
+    ],
+    "AMREX ELECTROTHERAPY": [
+      "AMREX ELECTROTHERAPY"
+    ],
+    "AMBU": [
+      "AMBU"
+    ],
+    "ALTIMATE MEDICAL": [
+      "ALTIMATE MEDICAL"
+    ],
+    "ALOKA": [
+      "ALOKA"
+    ],
+    "ALM SURGICAL EQUIPMENT": [
+      "ALM SURGICAL EQUIPMENT"
+    ],
+    "ALLEN MEDICAL": [
+      "ALLEN MEDICAL"
+    ],
+    "ALLEGIANCE HEALTHCARE": [
+      "ALLEGIANCE HEALTHCARE"
+    ],
+    "ALIMED": [
+      "ALIMED"
+    ],
+    "ALCOR SCIENTIFIC": [
+      "ALCOR SCIENTIFIC"
+    ],
+    "AKRUS": [
+      "AKRUS"
+    ],
+    "AIRFILTRONIX": [
+      "AIRFILTRONIX"
+    ],
+    "ADAM EQUIPMENT": [
+      "ADAM EQUIPMENT"
+    ],
+    "ACI MEDICAL": [
+      "ACI MEDICAL"
+    ],
+    "ACCRIVA DIAGNOSTICS": [
+      "ACCRIVA DIAGNOSTICS"
+    ]
+  },
+  "models": {
+    "reviewed": [
+      "[leftovers 1]",
+      "[leftovers 2]",
+      "[leftovers 3]",
+      "[leftovers 4]",
+      "[leftovers 5]",
+      "[leftovers 6]",
+      "[leftovers 7]",
+      "[leftovers 8]",
+      "[leftovers 9]",
+      "[leftovers 10]",
+      "[leftovers 11]",
+      "[leftovers 12]",
+      "[leftovers 13]",
+      "[leftovers 14]",
+      "[leftovers 15]",
+      "[leftovers 16]",
+      "[leftovers 17]",
+      "[leftovers 18]",
+      "[leftovers 19]",
+      "[leftovers 20]",
+      "[leftovers 21]",
+      "[leftovers 22]",
+      "[leftovers 23]",
+      "[leftovers 24]",
+      "[leftovers 25]",
+      "[leftovers 26]",
+      "[leftovers 27]",
+      "[leftovers 28]",
+      "[leftovers 29]",
+      "[leftovers 30]",
+      "[leftovers 31]",
+      "[leftovers 32]",
+      "[leftovers 33]",
+      "[leftovers 34]",
+      "[leftovers 35]",
+      "[leftovers 36]",
+      "[leftovers 37]",
+      "[leftovers 38]",
+      "[leftovers 39]",
+      "[leftovers 40]",
+      "[leftovers 41]",
+      "[leftovers 42]",
+      "[leftovers 43]",
+      "[leftovers 44]",
+      "[leftovers 45]",
+      "[leftovers 46]",
+      "[leftovers 47]",
+      "[leftovers 48]",
+      "[leftovers 49]",
+      "[leftovers 50]",
+      "[leftovers 51]",
+      "[leftovers 52]",
+      "[leftovers 53]",
+      "[leftovers 54]",
+      "[leftovers 55]",
+      "[leftovers 56]",
+      "[leftovers 57]",
+      "[leftovers 58]",
+      "[leftovers 59]",
+      "[leftovers 60]"
+    ],
+    "not_aliases": []
+  }
+}

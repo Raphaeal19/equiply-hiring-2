@@ -36,10 +36,10 @@ def download_facilities(conn: sqlite3.Connection) -> None:
     conn.commit()
 
 
-def download_records(conn: sqlite3.Connection, facility_id: str) -> None:
+def download_records(conn: sqlite3.Connection, url: str, facility_id: str) -> None:
     cursor = None
     while True:
-        page = client.get(f"hospitals/{facility_id}/records", limit=500, cursor=cursor)
+        page = client.get(f"{url}", limit=500, cursor=cursor)
         conn.executemany(
             "INSERT OR REPLACE INTO records VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             [
@@ -57,6 +57,7 @@ def download_records(conn: sqlite3.Connection, facility_id: str) -> None:
         if cursor is None:
             break
 
+
 def get_facilities(conn: sqlite3.Connection) -> list[sqlite3.Row]:
     return conn.execute("SELECT * FROM facilities").fetchall()
 
@@ -68,7 +69,9 @@ def get_records(conn: sqlite3.Connection, facility_id: str | None = None) -> lis
 
 if __name__ == "__main__":
 
-  conn = connect(create=True)
-  download_facilities(conn)
-  for facility in get_facilities(conn):
-      download_records(conn, facility["id"])
+    conn = connect(create=True)
+#   download_facilities(conn)
+    for facility in get_facilities(conn):
+        download_records(conn, url=f"hospitals/{facility["id"]}/records", facility_id=facility["id"])
+    download_records(conn, url=f"partner/records", facility_id="P")
+    conn.close()
